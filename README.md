@@ -13,7 +13,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Hello there 👋 👨‍💻 I’m Aditya Raj
 
 🎓I am currently pursuing B.Tech in Electronics and Communication Engineering from National Institute of Technology,Agartala.
 
