@@ -1,5 +1,4 @@
-### Hi there 👋
-
+### Hi there 👋 I am Aditya Raj
 <!--
 **adi1719/adi1719** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +13,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Hello there 👋 👨‍💻 I’m Aditya Raj
+
+🎓I am currently pursuing B.Tech in Electronics and Communication Engineering from National Institute of Technology,Agartala.
+
+💻I’m interested in Web Development, Data Structures and Algorithms.
+
+🌱I’m currently learning Web Development and I practice regulary on LeetCode, Codeforces and CodeChef.
+
+📫 You can Mail me at adiraj1719@gmail.com
+
