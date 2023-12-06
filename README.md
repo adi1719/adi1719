@@ -52,7 +52,11 @@
 
 ###
 
-<br clear="both">
+<div align="center">
+  <img src="https://profile-counter.glitch.me/adi1719/count.svg?"  />
+</div>
+
+###
 
 <img src="https://raw.githubusercontent.com/adi1719/adi1719/output/snake.svg" alt="Snake animation" />
 
