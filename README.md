@@ -2,7 +2,7 @@
 🔭 I’m currently working on Javascript Projects.
 👯 I’m looking to collaborate on any of my Projects.
 🌱 I’m currently learning React JS, SQL.
-💬 Ask me about C++, DSA, HTML, CSS, JavaScript, Bootstrap.
+💬 Ask me about C++, DSA, HTML, CSS, JavaScript, Bootstrap, jQuery, Node JS, Express Js.
 
 
 ## 🌐Socials
