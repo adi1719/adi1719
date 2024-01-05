@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Javascript Projects. <br>👯 I’m looking to collaborate on any of my Projects. <br>🌱 I’m currently learning React JS, SQL. <br>💬 Ask me about C++, DSA, HTML, CSS, JavaScript, Bootstrap, jQuery, Node JS, Express Js.<br><br>
+🔭 I’m currently working on Express JS Projects. <br>👯 I’m looking to collaborate on any of my Projects. <br>🌱 I’m currently learning React JS, SQL. <br>💬 Ask me about C++, DSA, HTML, CSS, JavaScript, Bootstrap, jQuery, Node JS, Express Js.<br><br>
 
 
 ## 🌐 Socials:
