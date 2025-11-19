@@ -11,13 +11,3 @@
 ![](https://github-readme-stats.vercel.app/api?username=adi1719&theme=material-palenight&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=adi1719&theme=material-palenight&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=adi1719&theme=material-palenight&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-
-
-
-### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
-
----
-[![](https://visitcount.itsvg.in/api?id=adi1719&icon=3&color=3)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
